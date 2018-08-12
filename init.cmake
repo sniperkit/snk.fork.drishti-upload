@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(
     HUNTER_CACHE_SERVERS
     "https://github.com/elucideye/hunter-cache"

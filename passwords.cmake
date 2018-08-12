@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 hunter_upload_password(
     REPO_OWNER "elucideye"
     REPO "hunter-cache"

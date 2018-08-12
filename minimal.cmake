@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 message("Using config 'minimal'")
 
 hunter_config(

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 message(">:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>: ${CMAKE_MODULE_PATH} <:<:<:<:<:<:<:<:<:<:<:<:<:<:<:<:<:<:<:<:<:<:<:")
 
 ### Toggle OpenGL ES 3.0 ###
